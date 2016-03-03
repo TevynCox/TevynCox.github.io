@@ -58,7 +58,7 @@ nav a {
   }
 nav a:hover {
   background-color : #322f2c;
-  color : #ffffff;
+  color : #000000;
   border-radius : 10px;
   }
 
@@ -119,13 +119,13 @@ nav a:hover {
   position : absolute;
   top : 0;
   left : 0;
-  background-color : #ff0000;
-  background : #ff0000;
+  background-color : #000000;
+  background : #000000;
   }
 .dogVideo {
 }
 footer {
-  background : #a09885;
+  background : #000000;
   border-radius : 10px;
   }
   
