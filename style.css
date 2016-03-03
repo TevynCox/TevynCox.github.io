@@ -34,7 +34,7 @@ header  {
   }
 nav {
   text-align : center;
-  background : #000ff;
+  background : ;
   padding : 8px;
   border-radius : 10px;
   }
@@ -45,7 +45,7 @@ nav ul {
   }
 nav li {
   text-align : center;
-  color : #000000;
+  color : #000ff;
   display:inline;
   padding : 10px;
   text-decoration : none;
